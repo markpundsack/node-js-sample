@@ -1,0 +1,10 @@
+{
+  "name":"pacific-waters-3353",
+  "scripts":{},
+  "env":{
+    "INHERIT_THIS_VALUE":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
